@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afd637fa194307982a07876ce4c55ed6",
+    "revision": "4c1ee30b7f07160fb0ab839ac65296a0",
     "url": "/covid-19-stat-hungary/index.html"
   },
   {
-    "revision": "c1e419c3c1f612fb27be",
+    "revision": "44f7d36447831d0e2a7a",
     "url": "/covid-19-stat-hungary/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-19-stat-hungary/static/js/2.a98c8b20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1e419c3c1f612fb27be",
-    "url": "/covid-19-stat-hungary/static/js/main.5f765545.chunk.js"
+    "revision": "44f7d36447831d0e2a7a",
+    "url": "/covid-19-stat-hungary/static/js/main.290eda69.chunk.js"
   },
   {
     "revision": "30ed35fd820055d6cf0b",

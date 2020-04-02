@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/covid-19-stat-hungary/precache-manifest.4bb8654375260203c1c7afc7393a0ca3.js"
+  "/covid-19-stat-hungary/precache-manifest.1e9176163b6211a0abd921ebd28ac8d1.js"
 );
 
 self.addEventListener('message', (event) => {
