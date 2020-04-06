@@ -70,7 +70,7 @@ export default class Chart extends React.Component<ChartProp, ChartState> {
           <Tooltip />
           <Area type="monotone" dataKey="active_cases" stroke="#8884d8" fill="#8884d8" />
         </AreaChart>
-        <p>Total deths</p>
+        <p>Total deaths</p>
         <AreaChart
           width={1200}
           height={150}
